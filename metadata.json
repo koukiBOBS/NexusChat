@@ -1,0 +1,5 @@
+{
+  "name": "NexusChat",
+  "description": "A modern, responsive web chat application featuring simulated email authentication, self-messaging capabilities, and an integrated AI assistant using Gemini.",
+  "requestFramePermissions": []
+}
